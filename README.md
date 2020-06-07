@@ -1,2 +1,2 @@
-# nlw
-Semana com Mayk Brito Expert | Rocketseat
+# NLW-html-css-javascript
+Projeto semana Next Level Week 
